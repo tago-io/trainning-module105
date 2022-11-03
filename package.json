@@ -1,0 +1,19 @@
+{
+  "name": "module105",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tago-io/sdk": "^10.9.4",
+    "async": "^3.2.4",
+    "json2csv": "^5.0.7"
+  },
+  "devDependencies": {
+    "@tago-io/builder": "^3.0.3"
+  }
+}
